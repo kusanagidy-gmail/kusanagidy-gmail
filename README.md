@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ray Xu
+# Hi there 👋 I'm RayXu
 
 > 🌱 A beginner programmer on my coding journey
 
@@ -37,15 +37,15 @@ Problem Solving █████░░░░░░░░░░░░░░░  25
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xulei&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RayXu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xulei&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RayXu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xulei&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayXu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -53,9 +53,9 @@ Problem Solving █████░░░░░░░░░░░░░░░  25
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xulei/xulei/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xulei/xulei/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xulei/xulei/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RayXu/RayXu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RayXu/RayXu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RayXu/RayXu/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -63,7 +63,7 @@ Problem Solving █████░░░░░░░░░░░░░░░  25
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/xulei" target="_blank">
+  <a href="https://github.com/RayXu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -71,9 +71,9 @@ Problem Solving █████░░░░░░░░░░░░░░░  25
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xulei&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=RayXu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/xulei">xulei</a>
+  ⭐️ From <a href="https://github.com/RayXu">RayXu</a>
 </p>
