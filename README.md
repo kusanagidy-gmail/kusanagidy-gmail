@@ -1,4 +1,4 @@
-# Hi there 👋 I'm xulei
+# Hi there 👋 I'm Ray Xu
 
 > 🌱 A beginner programmer on my coding journey
 
